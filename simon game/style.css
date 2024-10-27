@@ -1,0 +1,50 @@
+.main{
+    text-align: center;
+   
+ }
+
+ .boxes{
+     display: flex;
+justify-content: center;
+ }
+ .box1{
+     border: 0.4rem solid black;
+     width: 8rem;
+     height: 8rem;
+     border-radius: 30%;
+     margin-bottom: 5px;
+     margin-right: 5px;
+     background-color: lightcoral;
+
+ }
+ .box2{
+    border: 0.4rem solid black;
+     width: 8rem;
+     height: 8rem;
+     border-radius: 30%;
+     background-color: cadetblue;
+
+ }
+ .box3{
+    border: 0.4rem solid black;
+    width: 8rem;
+    height: 8rem;
+     border-radius: 30%;
+     margin-bottom: 5px;
+     background-color: cornflowerblue;
+
+ }
+ .box4{
+    border: 0.4rem solid black;
+    width: 8rem;
+    height: 8rem;
+     border-radius: 30%;
+background-color: darkmagenta;
+ }
+ .flash{
+    background-color: white;
+ }
+
+ .userflash{
+    background-color: black;
+ }
